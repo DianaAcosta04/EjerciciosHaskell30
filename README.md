@@ -4,9 +4,9 @@
 
 ## Ejercicio 1. 
 
-´´´ Haskell
+```haskell
 
 toDigits n | n <= 0 = [] | otherwise = map (\x -> read [x] :: Integer) (show n)
 toDigitsRev n = reverse (toDigits n)
 
-´´´
+```
