@@ -16,6 +16,8 @@ toDigitsRev n = reverse (toDigits n)
 ### map (\x -> read [x] :: Integer) aplica una función a cada carácter de la cadena, convirtiéndolo en un Integer.
 ### (\x -> read [x] :: Integer) convierte un carácter como '1' en el número 1.
 
+### toDigitsRev:  toma un número y lo descompone en sus dígitos, pero en orden inverso. Es decir, convierte el número en una lista de sus dígitos, comenzando desde el dígito menos significativo hasta el más significativo
+
 # Ejercicio 2
 ### Define la función `doubleEveryOther` para duplicar cada otro número comenzando desde la derecha.
 
