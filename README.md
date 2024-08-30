@@ -1,5 +1,10 @@
 # EjerciciosHaskell30
 
+### Integrantes
+### Santiago Alejandro Cespedes
+### David Andrés Castellanos
+### Diana Katerine Acosta 
+
 ## Validación de Números de Tarjetas de Crédito
 
 # Ejercicio 1. 
