@@ -1,5 +1,7 @@
 # Torres de Hanoi 
 
+# Ejercicio 5
+
 ## Define la función hanoi que devuelve una lista de movimientos a realizar para mover la pila de discos desde la primera estaca hasta la segunda.
 
 ``` haskell
